@@ -18,7 +18,7 @@ I'm building a career in data analytics, currently completing the Google Data An
 
 ## Featured Projects
 
-- **Online Retail II — SQL Data Cleaning & Analysis**: Cleaned and analyzed a 1M+ row e-commerce dataset in MySQL, resolving real-world import and encoding errors, then answered 10 business questions on revenue, customer behavior, and seasonality. *(link added below)*
+- **Online Retail — SQL Data Cleaning & Analysis**: Cleaned and analyzed a 1M+ row e-commerce dataset in MySQL, resolving real-world import and encoding errors, then answered 10 business questions on revenue, customer behavior, and seasonality. *(link added below)*
 - **Hotel Booking Demand — Excel Data Cleaning**: Cleaned and standardized a hotel booking dataset, handling duplicates, nulls, and inconsistent formatting. *(link added below)*
 
 ## Currently Working Toward
@@ -28,5 +28,5 @@ I'm building a career in data analytics, currently completing the Google Data An
 
 ## Contact
 
-- Email: your-email@example.com
+- Email: alaminfeyishola21@yahoo.com
 - LinkedIn: *(added once profile is live)*
